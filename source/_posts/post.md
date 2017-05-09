@@ -1,10 +1,15 @@
 ---
 title: iOS常量(const)、enum、宏(#define)的使用场景及区别
-date: 2017-03-31 00:27:54
-tags:
+date: 2016.04.30 02:37:54
+tags: 
+	- 宏 
+	- 常量
+categories: Objective-C
+photos:
+- http://upload-images.jianshu.io/upload_images/1457495-df0b95375604d34b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240
 ---
 
-![1.jpg](http://upload-images.jianshu.io/upload_images/1457495-df0b95375604d34b.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 >前言：本文主要梳理iOS中如何使用常量、enum、宏，以及各自的使用场景。
 
 ## 重要的事情首先说：
